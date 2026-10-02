@@ -1,7 +1,4 @@
-/*programa que imprime una frase, una palabra, y valores de numeros reales y enteros 
-fecha: 18/sep/2026
-Alumno: ERNESTO KALEB GASPAR LOPEZ
- */
+
 package practica234;
 
 public class Practica234 {
