@@ -1,6 +1,4 @@
-/*programa que usa if y else y que imprmime si un numero es mayor o menor
-* diseñado: ERNESTO KALEB GASPAR LOPEZ
- */
+
 package practica8;
 
 public class PRACTICA8 {
