@@ -1,9 +1,4 @@
-/*programa que hace operaciones matematicas de dos variables que valen 144 y 999
-programador: ERNESTO KALEB GASPAR LOPEZ
-FECHA: 25/SEP/2026
 
-
- */
 package practica.pkg9;
 
 public class Practica9 {
