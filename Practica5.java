@@ -1,7 +1,4 @@
-/*programa que hace operaciones de suma, division y multilicacion
-programdor: ERNESTO KALEB GASPAR LOPEZ
 
- */
 package practica5;
 
 public class Practica5 {
