@@ -1,8 +1,4 @@
-/*PROGRAMA QUE PIDE NOMBRE, CORREO Y NUMERO DE TELEFONO Y AL FINAL LOS MUESTRA 
-programador: ERNESTO KALEB GASPAR LOPEZ
-FECHA 25/sep/2026
 
- */
 package practica10;
 public class Practica10 {
 
