@@ -1,8 +1,4 @@
-/*programa que imprime palabras a color
-*diseñado: ERNESTO KALEB GASPAR LOPEZ
 
-
- */
 package practica7;
 
 public class Practica7 {
