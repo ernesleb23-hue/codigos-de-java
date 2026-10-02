@@ -24,7 +24,7 @@ public class Practica6 {
         double division;
         division = (double)c / (double)b;
         System.out.println("el resultado de la division es: " + division);
-        System.out.println("==========================================================");
+        
         
     }
     
