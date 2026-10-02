@@ -1,7 +1,4 @@
-/*programa que usa operadores aritmeticos y hace operaciones
-*Diseñado: ERNESTO KALEB GASPAR LOPEZ
 
- */
 package practica6;
 
 public class Practica6 {
