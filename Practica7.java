@@ -12,13 +12,13 @@ public class Practica7 {
       String blanco = "\033[37m";
       
       System.out.println(naranja + "mandarina" + verde + " hierba");
-      System.out.println("===================================================");
+      ;
       System.out.println(naranja + " saltamontes" + rojo + " tomate");
-      System.out.println("===================================================");
+      
       System.out.println(blanco + " sábanas" + azul + " cielo");
-      System.out.println("===================================================");
+    
       System.out.println(morado + " nazareno" + azul + " mar");
-      System.out.println("===================================================");
+      
     }
     
 }
